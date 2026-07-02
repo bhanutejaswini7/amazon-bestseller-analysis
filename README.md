@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes the Amazon Best Sellers dataset using Python. It includes data cleaning, exploratory data analysis (EDA), and data visualization to identify trends in books, authors, genres, ratings, and reviews.
+This project analyzes the Amazon Best Sellers dataset using Python. It includes data cleaning, exploratory data analysis (EDA), and data visualization trends in books, authors, genres, ratings, and reviews.
 
 ## Features
 
@@ -17,7 +17,6 @@ This project analyzes the Amazon Best Sellers dataset using Python. It includes 
 
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
